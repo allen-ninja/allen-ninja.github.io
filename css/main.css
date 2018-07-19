@@ -149,6 +149,7 @@ html {
 }
 .bio-copy {
   font-size: 1em;
+  line-height: 1.5;
 }
 .bio-copy a {
   color: #13a51b;
