@@ -104,6 +104,9 @@ html {
 .footer-nav a {
   color: #ccc;
 }
+.footer ul {
+  padding-top: 1.5em;
+}
 
 /* HERO STYLES */
 .full-hero {
