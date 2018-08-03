@@ -3,7 +3,7 @@ layout: post
 title: A Summary of the Constitution
 postHero: https://images.pexels.com/photos/457563/pexels-photo-457563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 author: Allen
-authorTwitter: http://twitter.com/allen
+authorTwitter: http://twitter.com/_allen_ninja
 gravatar: https://images.pexels.com/photos/334029/pexels-photo-334029.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
